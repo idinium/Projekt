@@ -33,3 +33,5 @@
         android:src="@android:drawable/ic_dialog_email" />
 
 </android.support.design.widget.CoordinatorLayout>
+
+<!-- To ponazarja nekakšne spremembe -->
